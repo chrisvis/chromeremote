@@ -1,0 +1,32 @@
+{
+  // Required
+  "name": "Chrome Remote",
+  "version": "0.1",
+
+  // Recommended
+  "description": "Remote control your Google Chrome with your phone",
+  "icons": {  },
+//  "default_locale": "en",
+
+  "background_page": "background.html"
+/*
+  // Pick one (or none)
+  "browser_action": {...},
+  "page_action": {...},
+  "theme": {...},
+  "app": {...},
+
+  // Add any of these that you need
+  "chrome_url_overrides": {...},
+  "content_scripts": [...],
+  "homepage_url": "http://path/to/homepage",
+  "incognito": "spanning" or "split",
+  "key": "publicKey",
+  "minimum_chrome_version": "versionString",
+  "omnibox": { "keyword" : "aString" },
+  "options_page": "aFile.html",
+  "permissions": [...],
+  "plugins": [...],
+  "update_url": "http://path/to/updateInfo.xml"
+*/
+}
