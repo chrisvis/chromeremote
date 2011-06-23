@@ -1,1 +1,12 @@
 Remote control Google Chrome with your phone
+
+[Thanks to]
+Node.js	
+	http://nodejs.org/
+	
+Socket.IO
+	http://socket.io
+
+Nagi Letaifa's blog posts:
+	http://blog.zenika.com/index.php?post/2011/04/10/NodeJS
+	http://blog.zenika.com/index.php?post/2011/05/11/A-Full-Javascript-Architecture%2C-Part-Two-Chrome-Extension2
